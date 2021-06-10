@@ -9,8 +9,12 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsankitverma&layout=compact)](https://github.com/itsankitverma/github-readme-stats)
+
+
 ### Profile Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/itsankitverma/count.svg)
 
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
