@@ -6,3 +6,8 @@
 
 
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=itsankitverma&hide=["issues"]&show_icons=true)
+
+
+
+### Profile Visit Count
+![Visitor Count](https://profile-counter.glitch.me/itsankitverma/count.svg)
