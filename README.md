@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itsankitverma 
 - 
-- 
 - <img src="https://raw.githubusercontent.com/kaustubh2020/kaustubh2020/master/wave.gif" width="40px"/>
 - 👀 I’m interested in building web apps, website and mobile apps in ReactJS, React Native
 - 🌱 I’m currently learning Redux and advance MERN
